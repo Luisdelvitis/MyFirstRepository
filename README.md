@@ -1,4 +1,5 @@
 # MyFirstRepository
-this is my first Repository here in git hub
- If at first you don’t succeed, try, try again.
- now
+
+If at first you don’t succeed, try, try again.
+ 
+Starting a company is like throwing yourself off the cliff and assembling an airplane on the way down.
